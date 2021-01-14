@@ -9085,7 +9085,7 @@ with open('../data/export/ratings_with_country.csv', 'w') as f:  # You will need
         w.writerow(d)
 ```
 
-#### 5. Compute monthly credit
+#### 💲5. Compute monthly credit
 
 ##### 5.1 Time to maturity
 
