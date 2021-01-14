@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jekyll本地测试命令"
+title:  "🔥Jekyll本地测试命令"
 date:   2021-01-07 11:03:05 +0800
 categories: jekyll update
 ---
