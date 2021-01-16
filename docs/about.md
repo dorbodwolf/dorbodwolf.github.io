@@ -20,8 +20,26 @@ permalink: /about/
 命之不易，无遏尔躬。宣昭义问，有虞殷自天。
 上天之载，无声无臭。仪刑文王，万邦作孚。
 
-![machine learning](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~4HLMCQ5U8B6F/CERTIFICATE_LANDING_PAGE~4HLMCQ5U8B6F.jpeg)
 
-![math for machine learning](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~X4H4RRZHE8HP/CERTIFICATE_LANDING_PAGE~X4H4RRZHE8HP.jpeg)
+## My roadmap as a MOOCer
+**CS50x**
 
-![cs50x 2020](https://certificates.cs50.io/36a6ba8f-4023-4518-bc37-c76d1348de89.png?size=A4)
+![CS50x 2020](https://certificates.cs50.io/36a6ba8f-4023-4518-bc37-c76d1348de89.png?size=A4)
+
+
+**C++**
+![C++](https://www.sololearn.com/certificates/course/en/20838368/1051/landscape/png)
+
+**Machine Learning**
+
+![Machine Learning](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~4HLMCQ5U8B6F/CERTIFICATE_LANDING_PAGE~4HLMCQ5U8B6F.jpeg)
+
+**Linear Algebra in Python**
+
+![Math for Machine Learning, LA](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~X4H4RRZHE8HP/CERTIFICATE_LANDING_PAGE~X4H4RRZHE8HP.jpeg)
+
+
+
+
+
+
