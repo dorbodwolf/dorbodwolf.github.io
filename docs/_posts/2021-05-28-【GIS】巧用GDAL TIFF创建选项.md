@@ -48,3 +48,16 @@ Tiled Pyramidal TIFF 图像 也可以使用 LZW这样的无损压缩或者JPEG�
 实验中添加了`TILED`标签后压缩比显著提升。
 
 `python3 -m gdal_merge -ot Byte -of GTiff -co COMPRESS=LZW -co PREDICTOR=2 -co TILED=YES -o F:/曹县666.tif`
+
+
+# 参考资料
+
+https://gis.stackexchange.com/a/258215/88333
+
+https://forum.xnview.com/viewtopic.php?p=104569&sid=839f082ea7e26ca900a7b5db75ae9ad4#p104569
+
+https://www.fileformat.info/format/tiff/corion-lzw.htm
+
+https://gdal.org/programs/gdal_merge.html
+
+https://gdal.org/drivers/raster/gtiff.html
