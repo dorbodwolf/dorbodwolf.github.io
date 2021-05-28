@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "🔥Jekyll本地测试命令"
-date:   2021-01-07 11:03:05 +0800
+date:   2029-01-07 11:03:05 +0800
 categories: jekyll update
 ---
 `bundle exec jekyll serve`
