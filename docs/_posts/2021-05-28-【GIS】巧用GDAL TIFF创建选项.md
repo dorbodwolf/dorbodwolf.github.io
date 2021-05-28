@@ -1,8 +1,8 @@
-# 简介
+# 1 简介
 
 gdal支持众多栅格驱动器，GeoTIFF就是其中最常用的，TIFF格式有很多创建选项（Create Option），在代码中和脚本中可以指定这些创建选项来自定义TIFF文件输出。在GDAL自带脚本中可以通过`-co`选项来添加创建选项。
 
-## 实例
+## 1.1 实例
 
 利用Google earth engine线上做地物分类，分类结果下载到本地是分幅存储的，需要镶嵌起来，保存结果想要尽可能压缩来提高存储效率。
 
@@ -50,7 +50,7 @@ Tiled Pyramidal TIFF 图像 也可以使用 LZW这样的无损压缩或者JPEG�
 `python3 -m gdal_merge -ot Byte -of GTiff -co COMPRESS=LZW -co PREDICTOR=2 -co TILED=YES -o F:/曹县666.tif`
 
 
-# 参考资料
+# 2 参考资料
 
 https://gis.stackexchange.com/a/258215/88333
 
