@@ -2,7 +2,7 @@
 
 gdal支持众多栅格驱动器，GeoTIFF就是其中最常用的，TIFF格式有很多创建选项（Create Option），在代码中和脚本中可以指定这些创建选项来自定义TIFF文件输出。在GDAL自带脚本中可以通过`-co`选项来添加创建选项。
 
-# 2 实例
+# 2 脚本实例--镶嵌时应用
 
 利用Google earth engine线上做地物分类，分类结果下载到本地是分幅存储的，需要镶嵌起来，保存结果想要尽可能压缩来提高存储效率。
 
@@ -50,7 +50,25 @@ Tiled Pyramidal TIFF 图像 也可以使用 LZW这样的无损压缩或者JPEG�
 `python3 -m gdal_merge -ot Byte -of GTiff -co COMPRESS=LZW -co PREDICTOR=2 -co TILED=YES -o F:/曹县666.tif`
 
 
-# 3 参考资料
+# 3 代码中使用--压缩输出
+
+下面是一个封装的压缩输出的例子，直接调用gdal的包函数Warp()，还支持多线程处理
+
+```python
+import gdal
+
+def compressTifLZW(outraster, inraster):
+    options=gdal.WarpOptions(
+            creationOptions=["COMPRESS=LZW"], # creationOptions之压缩选项设置
+            multithread=True # 多线程
+            )
+    gdal.Warp(outraster, inraster, options=options)
+
+```
+
+如果想在脚本中使用这个功能，在-co参数指定压缩即可
+
+# 4 参考资料
 
 https://gis.stackexchange.com/a/258215/88333
 
@@ -59,5 +77,7 @@ https://forum.xnview.com/viewtopic.php?p=104569&sid=839f082ea7e26ca900a7b5db75ae
 https://www.fileformat.info/format/tiff/corion-lzw.htm
 
 https://gdal.org/programs/gdal_merge.html
+
+https://gdal.org/programs/gdalwarp.html
 
 https://gdal.org/drivers/raster/gtiff.html
