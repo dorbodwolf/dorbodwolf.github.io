@@ -39,7 +39,7 @@ permalink: /about/
 
 
 **数据结构（上）**
-![DATA MINING Ⅰ](http://qn-sx.yuketang.cn/%E7%94%B0%E5%BE%B7%E5%AE%87-b86aa10a-ef77-11eb-aef0-0242c0a81918.pdf)
+![DATA MINING Ⅰ](https://sm.ms/image/QkzYL9SheAJfnwP)
 
 **Linear Algebra in Python**
 
