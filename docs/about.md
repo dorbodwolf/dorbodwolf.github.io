@@ -37,13 +37,19 @@ permalink: /about/
 **C++**
 ![C++](https://www.sololearn.com/certificates/course/en/20838368/1051/landscape/png)
 
-**Machine Learning**
 
-![Machine Learning](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~4HLMCQ5U8B6F/CERTIFICATE_LANDING_PAGE~4HLMCQ5U8B6F.jpeg)
+**数据结构（上）**
+![DATA MINING Ⅰ](http://qn-sx.yuketang.cn/%E7%94%B0%E5%BE%B7%E5%AE%87-b86aa10a-ef77-11eb-aef0-0242c0a81918.pdf)
 
 **Linear Algebra in Python**
 
 ![Math for Machine Learning, LA](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~X4H4RRZHE8HP/CERTIFICATE_LANDING_PAGE~X4H4RRZHE8HP.jpeg)
+
+
+**Machine Learning**
+
+![Machine Learning](https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~4HLMCQ5U8B6F/CERTIFICATE_LANDING_PAGE~4HLMCQ5U8B6F.jpeg)
+
 
 
 
