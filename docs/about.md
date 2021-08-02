@@ -38,8 +38,8 @@ permalink: /about/
 ![C++](https://www.sololearn.com/certificates/course/en/20838368/1051/landscape/png)
 
 
-**数据结构（上）**
-![DATA MINING Ⅰ](https://sm.ms/image/QkzYL9SheAJfnwP)
+**数据结构上（C++语言描述）**
+![DSCPP](https://i.loli.net/2021/08/02/QkzYL9SheAJfnwP.png)
 
 **Linear Algebra in Python**
 
